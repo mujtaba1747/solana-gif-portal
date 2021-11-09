@@ -14,3 +14,9 @@ Visit:
 - https://solana-gif-gallery.netlify.app/
 
 - https://explorer.solana.com/address/J265FwEPi3r1J4zDwwYsb6br2dCaFxETTbpxsrZ5xqao?cluster=devnet
+
+Usage:
+
+- Get a SOL wallet: https://phantom.app/
+- Get some Dev Net SOL Tokens
+- Upload GIF's !
