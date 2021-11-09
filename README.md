@@ -1,9 +1,10 @@
 # solana-gif-portal
+
+Host your GIF's or images on the metaverse!
+
 ![Image](/Image1.png?raw=true&sanitize=true)
 
 ![Image](/Image2.png?raw=true&sanitize=true)
-
-Add GIF's or images to the metaverse!
 
 - A simple dApp, which hosts your favorite GIF's and Images on the Solana Blockchain !
 
